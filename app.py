@@ -4,7 +4,7 @@ APP = Flask(__name__)
 
 @APP.route('/')
 def hello_world():
-    return 'Hello, World from tired face!\n'
+    return 'THANK YOU BABE!\nWant to tell you I have finished my projects with udacity.\nI am very gratefull to God for giving me the priviledge to meet you, what a beautiful person you are.\nI love you, I love you\n'
 
 
 
